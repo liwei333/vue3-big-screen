@@ -1,15 +1,8 @@
 
 ## 项目描述
 
-[IofTV-Screen](https://gitee.com/daidaibg/IofTV-Screen/tree/main)  的 Vue3+vite版本，
+数据大屏展示 vue3 
 
-### 与vue2版本对比
-
-#### 功能
-
-功能采用与vue2版本相同功能
-
-因为要与vue2版本相同功能，有些组件不兼容vue3版本，例如：胶囊柱图，数字滚动皆重新封装为组件，整体来说，功能属实相同。根据自己需求选择[vue2](#vue2版本地址)版本与[vue3](#本项目地址 vue3+vite)版本
 
 #### 样式
 
